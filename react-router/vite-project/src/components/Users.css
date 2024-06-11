@@ -1,0 +1,7 @@
+.users-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
